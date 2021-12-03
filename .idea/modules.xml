@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/starting-seed-react.iml" filepath="$PROJECT_DIR$/starting-seed-react.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch17-adding-power.iml" filepath="$PROJECT_DIR$/ch17-adding-power.iml" />
     </modules>
   </component>
 </project>

@@ -25,21 +25,23 @@
       "version": "detect"
     }
   },
-  "ignorePatterns": ["*.test.js", "*.test.tsx", "*.css"],
+  "ignorePatterns": ["*.test.js", "*.test.tsx", "*.css", "*.svg"],
   "rules": {
-    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx", ".svg"] }],
+    "max-len": ["error", { "code": 130 }],
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "react/jsx-no-bind": "off",
+    "react/jsx-one-expression-per-line": "off",
     "react/react-in-jsx-scope": "off",
     "react/prop-types": "off",
     "no-unused-vars": "warn",
     "no-case-declarations": "off",
     "linebreak-style": 0,
     "prettier/prettier": ["error", { "endOfLine": "auto"}, { "usePrettierrc": true }],
-    "react/jsx-one-expression-per-line": "off",
     "comma-dangle": ["error", {
-      "arrays": "never",
+      "arrays": "only-multiline",
       "objects": "only-multiline",
       "imports": "never",
-      "exports": "never",
+      "exports": "only-multiline",
       "functions": "never"
     }],
     "object-curly-newline": ["warn"],

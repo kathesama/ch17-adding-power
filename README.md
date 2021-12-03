@@ -5,19 +5,19 @@
 ![IntellijIdea](https://img.shields.io/badge/Made%20for-IntellijIdea-1f425f.svg?style=for-the-badge)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-blue?logo=react&logoColor=white&style=for-the-badge)
 <br>
-[![GitHub issues](https://img.shields.io/github/issues/kathesama/starting-seed-react?style=plastic)](https://github.com/kathesama/starting-seed-react/issues)
-[![GitHub forks](https://img.shields.io/github/forks/kathesama/starting-seed-react?style=plastic)](https://github.com/kathesama/starting-seed-react/network)
-[![GitHub stars](https://img.shields.io/github/stars/kathesama/starting-seed-react?style=plastic)](https://github.com/kathesama/starting-seed-react/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/kathesama/ch17-adding-powert?style=plastic)](https://github.com/kathesama/ch17-adding-powert/issues)
+[![GitHub forks](https://img.shields.io/github/forks/kathesama/ch17-adding-powert?style=plastic)](https://github.com/kathesama/ch17-adding-powert/network)
+[![GitHub stars](https://img.shields.io/github/stars/kathesama/ch17-adding-powert?style=plastic)](https://github.com/kathesama/ch17-adding-powert/stargazers)
 <br>
-![GitHub last commit](https://img.shields.io/github/last-commit/kathesama/starting-seed-react?color=red&style=plastic)
-![GitHub version commits](https://img.shields.io/github/commits-since/kathesama/starting-seed-react/V2.0.0.svg?color=yellow&style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/kathesama/starting-seed-react?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/kathesama/ch17-adding-powert?color=red&style=plastic)
+![GitHub version commits](https://img.shields.io/github/commits-since/kathesama/ch17-adding-powert/V2.0.0.svg?color=yellow&style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/kathesama/ch17-adding-powert?style=plastic)
 <br>
 ![Maintaned](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=plastic)
 ![OWASP](https://img.shields.io/badge/OWASP%3F-yes-green.svg?style=plastic)
 ![CleanCode](https://img.shields.io/badge/CleanCode%3F-yes-green.svg?style=plastic)
-[![GitHub license](https://img.shields.io/github/license/kathesama/starting-seed-react?style=plastic)](https://github.com/kathesama/starting-seed-react/blob/main/LICENSE)
-![GitHub repo size](https://img.shields.io/github/repo-size/kathesama/starting-seed-react?style=plastic)
+[![GitHub license](https://img.shields.io/github/license/kathesama/ch17-adding-powert?style=plastic)](https://github.com/kathesama/ch17-adding-powert/blob/main/LICENSE)
+![GitHub repo size](https://img.shields.io/github/repo-size/kathesama/ch17-adding-powert?style=plastic)
 <br>
 
 # Initial seed for a react project
@@ -25,7 +25,7 @@
 Steps to run this project
 
 1. Clone this repo
-   > git clone https://github.com/kathesama/starting-seed-react.git
+   > git clone https://github.com/kathesama/ch17-adding-powert.git
 2. Run install
    > npm install
 

@@ -10,7 +10,7 @@ Project: ch15-custom-hooks
  function App() {
   const [tasks, setTasks] = useState([]);
 
-  const { isLoading, error, sendRequest: fetchTasks } = useHttp();
+  const { isLoading, error, sendRequest: fetchTasks } = useFetchHttp();
 
   useEffect(() => {
     const transformTasks = (tasksObj) => {
@@ -82,7 +82,7 @@ POST Example
  import useHttp from './hooks/DataHandler/use-http';
 
  const NewTask = (props) => {
-  const { isLoading, error, sendRequest: fetchTasks } = useHttp();
+  const { isLoading, error, sendRequest: fetchTasks } = useFetchHttp();
 
   const createTask = (taskText, taskData) => {
     const generatedId = taskData.name;
